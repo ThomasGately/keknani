@@ -1,0 +1,6 @@
+[submodule "keknani-client"]
+	path = keknani-client
+	url = https://github.com/ThomasGately/keknani-client.git
+[submodule "keknani-server"]
+	path = keknani-server
+	url = https://github.com/ThomasGately/keknani-server.git
